@@ -1,0 +1,83 @@
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\Quanlyhososinhcap3.exe.config
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\Quanlyhososinhcap3.exe
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\Quanlyhososinhcap3.pdb
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.frmLogin.resources
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.exe
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.pdb
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\Telerik.WinControls.dll
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\TelerikCommon.dll
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\Telerik.WinControls.xml
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.frmmain.resources
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.exe.licenses
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.frmtthocsinh.resources
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.MDImain.resources
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.frmkhoi.resources
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.frmlop.resources
+C:\Users\ASUS\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.frmnguoidung.resources
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\Quanlyhososinhcap3.exe.config
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\Quanlyhososinhcap3.exe
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\Quanlyhososinhcap3.pdb
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\EntityFramework.dll
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\Telerik.WinControls.dll
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\TelerikCommon.dll
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\EntityFramework.xml
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\Telerik.WinControls.xml
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.csprojAssemblyReference.cache
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.frmkhoi.resources
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.frmLogin.resources
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.frmlop.resources
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.frmmain.resources
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.frmnguoidung.resources
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.frmtthocsinh.resources
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.MDImain.resources
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.Properties.Resources.resources
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.csproj.GenerateResource.cache
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.exe.licenses
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.csproj.CoreCompileInputs.cache
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.csproj.CopyComplete
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.exe
+C:\Users\taikt\source\repos\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.pdb
+E:\Bai tap\Phạm Tiến Tài CNTT1K19\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\Quanlyhososinhcap3.exe.config
+E:\Bai tap\Phạm Tiến Tài CNTT1K19\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\Quanlyhososinhcap3.exe
+E:\Bai tap\Phạm Tiến Tài CNTT1K19\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\Quanlyhososinhcap3.pdb
+E:\Bai tap\Phạm Tiến Tài CNTT1K19\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\EntityFramework.dll
+E:\Bai tap\Phạm Tiến Tài CNTT1K19\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\EntityFramework.SqlServer.dll
+E:\Bai tap\Phạm Tiến Tài CNTT1K19\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\EntityFramework.xml
+E:\Bai tap\Phạm Tiến Tài CNTT1K19\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\EntityFramework.SqlServer.xml
+E:\Bai tap\Phạm Tiến Tài CNTT1K19\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\Telerik.WinControls.xml
+E:\Bai tap\Phạm Tiến Tài CNTT1K19\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\Telerik.WinControls.GridView.xml
+E:\Bai tap\Phạm Tiến Tài CNTT1K19\Quanlyhososinhcap3\Quanlyhososinhcap3\bin\Debug\Telerik.WinControls.UI.xml
+E:\Bai tap\Phạm Tiến Tài CNTT1K19\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.csproj.AssemblyReference.cache
+E:\Bai tap\Phạm Tiến Tài CNTT1K19\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.frmkhoi.resources
+E:\Bai tap\Phạm Tiến Tài CNTT1K19\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.frmLogin.resources
+E:\Bai tap\Phạm Tiến Tài CNTT1K19\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.frmlop.resources
+E:\Bai tap\Phạm Tiến Tài CNTT1K19\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.frmmain.resources
+E:\Bai tap\Phạm Tiến Tài CNTT1K19\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.frmnguoidung.resources
+E:\Bai tap\Phạm Tiến Tài CNTT1K19\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.frmtthocsinh.resources
+E:\Bai tap\Phạm Tiến Tài CNTT1K19\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.MDImain.resources
+E:\Bai tap\Phạm Tiến Tài CNTT1K19\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.Properties.Resources.resources
+E:\Bai tap\Phạm Tiến Tài CNTT1K19\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.csproj.GenerateResource.cache
+E:\Bai tap\Phạm Tiến Tài CNTT1K19\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.exe.licenses
+E:\Bai tap\Phạm Tiến Tài CNTT1K19\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.csproj.CoreCompileInputs.cache
+E:\Bai tap\Phạm Tiến Tài CNTT1K19\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.csproj.CopyComplete
+E:\Bai tap\Phạm Tiến Tài CNTT1K19\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.exe
+E:\Bai tap\Phạm Tiến Tài CNTT1K19\Quanlyhososinhcap3\Quanlyhososinhcap3\obj\Debug\Quanlyhososinhcap3.pdb

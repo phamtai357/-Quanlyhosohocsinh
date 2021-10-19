@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QLHSHSSModelStoreContainer" CdmEntityContainer="QLHSHSSEntities6">
+    <EntitySetMapping Name="DangNhaps">
+      <EntityTypeMapping TypeName="QLHSHSSModel.DangNhap">
+        <MappingFragment StoreEntitySet="DangNhap">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="TaiKhoan" ColumnName="TaiKhoan" />
+          <ScalarProperty Name="MatKhau" ColumnName="MatKhau" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HocSinhs">
+      <EntityTypeMapping TypeName="QLHSHSSModel.HocSinh">
+        <MappingFragment StoreEntitySet="HocSinh">
+          <ScalarProperty Name="imagest" ColumnName="imagest" />
+          <ScalarProperty Name="MaHS" ColumnName="MaHS" />
+          <ScalarProperty Name="TenHS" ColumnName="TenHS" />
+          <ScalarProperty Name="ngaysinh" ColumnName="ngaysinh" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="MaLop" ColumnName="MaLop" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="Sdt" ColumnName="Sdt" />
+          <ScalarProperty Name="DiemTB" ColumnName="DiemTB" />
+          <ScalarProperty Name="XepLoai" ColumnName="XepLoai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Khois">
+      <EntityTypeMapping TypeName="QLHSHSSModel.Khoi">
+        <MappingFragment StoreEntitySet="Khoi">
+          <ScalarProperty Name="MaKhoi" ColumnName="MaKhoi" />
+          <ScalarProperty Name="TenKhoi" ColumnName="TenKhoi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Lops">
+      <EntityTypeMapping TypeName="QLHSHSSModel.Lop">
+        <MappingFragment StoreEntitySet="Lop">
+          <ScalarProperty Name="MaLop" ColumnName="MaLop" />
+          <ScalarProperty Name="TenLop" ColumnName="TenLop" />
+          <ScalarProperty Name="MaKhoi" ColumnName="MaKhoi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="QLHSHSSModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="AddHocSinh" FunctionName="QLHSHSSModel.Store.AddHocSinh" />
+    <FunctionImportMapping FunctionImportName="AddKhoi" FunctionName="QLHSHSSModel.Store.AddKhoi" />
+    <FunctionImportMapping FunctionImportName="AddLop" FunctionName="QLHSHSSModel.Store.AddLop" />
+    <FunctionImportMapping FunctionImportName="Addngdung" FunctionName="QLHSHSSModel.Store.Addngdung" />
+    <FunctionImportMapping FunctionImportName="DeleteHocSinh" FunctionName="QLHSHSSModel.Store.DeleteHocSinh" />
+    <FunctionImportMapping FunctionImportName="DeleteKhoi" FunctionName="QLHSHSSModel.Store.DeleteKhoi" />
+    <FunctionImportMapping FunctionImportName="DeleteLop" FunctionName="QLHSHSSModel.Store.DeleteLop" />
+    <FunctionImportMapping FunctionImportName="Deletengdung" FunctionName="QLHSHSSModel.Store.Deletengdung" />
+    <FunctionImportMapping FunctionImportName="GetAllHocSinh" FunctionName="QLHSHSSModel.Store.GetAllHocSinh">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLHSHSSModel.GetAllHocSinh_Result">
+          <ScalarProperty Name="imagest" ColumnName="imagest" />
+          <ScalarProperty Name="MaHS" ColumnName="MaHS" />
+          <ScalarProperty Name="TenHS" ColumnName="TenHS" />
+          <ScalarProperty Name="ngaysinh" ColumnName="ngaysinh" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="TenLop" ColumnName="TenLop" />
+          <ScalarProperty Name="TenKhoi" ColumnName="TenKhoi" />
+          <ScalarProperty Name="DiemTB" ColumnName="DiemTB" />
+          <ScalarProperty Name="XepLoai" ColumnName="XepLoai" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="Sdt" ColumnName="Sdt" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="GetAllKhoi" FunctionName="QLHSHSSModel.Store.GetAllKhoi">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLHSHSSModel.GetAllKhoi_Result">
+          <ScalarProperty Name="MaKhoi" ColumnName="MaKhoi" />
+          <ScalarProperty Name="TenKhoi" ColumnName="TenKhoi" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="GetAllLop" FunctionName="QLHSHSSModel.Store.GetAllLop">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLHSHSSModel.GetAllLop_Result">
+          <ScalarProperty Name="MaLop" ColumnName="MaLop" />
+          <ScalarProperty Name="TenLop" ColumnName="TenLop" />
+          <ScalarProperty Name="TenKhoi" ColumnName="TenKhoi" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="GetAllngdung" FunctionName="QLHSHSSModel.Store.GetAllngdung">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLHSHSSModel.GetAllngdung_Result">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="TaiKhoan" ColumnName="TaiKhoan" />
+          <ScalarProperty Name="MatKhau" ColumnName="MatKhau" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_alterdiagram" FunctionName="QLHSHSSModel.Store.sp_alterdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_creatediagram" FunctionName="QLHSHSSModel.Store.sp_creatediagram" />
+    <FunctionImportMapping FunctionImportName="sp_dropdiagram" FunctionName="QLHSHSSModel.Store.sp_dropdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_helpdiagramdefinition" FunctionName="QLHSHSSModel.Store.sp_helpdiagramdefinition" />
+    <FunctionImportMapping FunctionImportName="sp_helpdiagrams" FunctionName="QLHSHSSModel.Store.sp_helpdiagrams" />
+    <FunctionImportMapping FunctionImportName="sp_renamediagram" FunctionName="QLHSHSSModel.Store.sp_renamediagram" />
+    <FunctionImportMapping FunctionImportName="sp_upgraddiagrams" FunctionName="QLHSHSSModel.Store.sp_upgraddiagrams" />
+    <FunctionImportMapping FunctionImportName="tmkiemkhoihocsinh" FunctionName="QLHSHSSModel.Store.tmkiemkhoihocsinh">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLHSHSSModel.tmkiemkhoihocsinh_Result">
+          <ScalarProperty Name="imagest" ColumnName="imagest" />
+          <ScalarProperty Name="MaHS" ColumnName="MaHS" />
+          <ScalarProperty Name="TenHS" ColumnName="TenHS" />
+          <ScalarProperty Name="ngaysinh" ColumnName="ngaysinh" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="TenLop" ColumnName="TenLop" />
+          <ScalarProperty Name="TenKhoi" ColumnName="TenKhoi" />
+          <ScalarProperty Name="DiemTB" ColumnName="DiemTB" />
+          <ScalarProperty Name="XepLoai" ColumnName="XepLoai" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="Sdt" ColumnName="Sdt" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="tmkiemlophocsinh" FunctionName="QLHSHSSModel.Store.tmkiemlophocsinh">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLHSHSSModel.tmkiemlophocsinh_Result">
+          <ScalarProperty Name="imagest" ColumnName="imagest" />
+          <ScalarProperty Name="MaHS" ColumnName="MaHS" />
+          <ScalarProperty Name="TenHS" ColumnName="TenHS" />
+          <ScalarProperty Name="ngaysinh" ColumnName="ngaysinh" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="TenLop" ColumnName="TenLop" />
+          <ScalarProperty Name="TenKhoi" ColumnName="TenKhoi" />
+          <ScalarProperty Name="DiemTB" ColumnName="DiemTB" />
+          <ScalarProperty Name="XepLoai" ColumnName="XepLoai" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="Sdt" ColumnName="Sdt" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="tmkiemmahocsinh" FunctionName="QLHSHSSModel.Store.tmkiemmahocsinh">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLHSHSSModel.tmkiemmahocsinh_Result">
+          <ScalarProperty Name="imagest" ColumnName="imagest" />
+          <ScalarProperty Name="MaHS" ColumnName="MaHS" />
+          <ScalarProperty Name="TenHS" ColumnName="TenHS" />
+          <ScalarProperty Name="ngaysinh" ColumnName="ngaysinh" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="MaLop" ColumnName="MaLop" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="Sdt" ColumnName="Sdt" />
+          <ScalarProperty Name="DiemTB" ColumnName="DiemTB" />
+          <ScalarProperty Name="XepLoai" ColumnName="XepLoai" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="tmkiemtenhocsinh" FunctionName="QLHSHSSModel.Store.tmkiemtenhocsinh">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLHSHSSModel.tmkiemtenhocsinh_Result">
+          <ScalarProperty Name="imagest" ColumnName="imagest" />
+          <ScalarProperty Name="MaHS" ColumnName="MaHS" />
+          <ScalarProperty Name="TenHS" ColumnName="TenHS" />
+          <ScalarProperty Name="ngaysinh" ColumnName="ngaysinh" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="TenLop" ColumnName="TenLop" />
+          <ScalarProperty Name="TenKhoi" ColumnName="TenKhoi" />
+          <ScalarProperty Name="DiemTB" ColumnName="DiemTB" />
+          <ScalarProperty Name="XepLoai" ColumnName="XepLoai" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="Sdt" ColumnName="Sdt" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="UpdateHocSinh" FunctionName="QLHSHSSModel.Store.UpdateHocSinh" />
+    <FunctionImportMapping FunctionImportName="UpdateKhoi" FunctionName="QLHSHSSModel.Store.UpdateKhoi" />
+    <FunctionImportMapping FunctionImportName="UpdateLop" FunctionName="QLHSHSSModel.Store.UpdateLop" />
+    <FunctionImportMapping FunctionImportName="Updatengdung" FunctionName="QLHSHSSModel.Store.Updatengdung" />
+  </EntityContainerMapping>
+</Mapping>
